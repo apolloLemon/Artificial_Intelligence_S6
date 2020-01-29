@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjoueurs.a  CMakeFiles/joueurs.dir/joueur.cpp.o CMakeFiles/joueurs.dir/joueur_random.cpp.o CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.o
+/usr/bin/ranlib libjoueurs.a

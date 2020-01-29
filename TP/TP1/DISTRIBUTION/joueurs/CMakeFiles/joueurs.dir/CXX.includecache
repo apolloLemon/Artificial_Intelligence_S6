@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+mutex
+-
+iostream
+-
+../jeu.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
+
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.cpp
+joueur_alphabeta_.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
+
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
+joueur.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+
