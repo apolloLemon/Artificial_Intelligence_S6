@@ -1,0 +1,1327 @@
+Le challenge de 1 parties entre Brutal et AlphaBeta commence. 
+
+Partie n°1 : B7 222 minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 4 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 4 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 200
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 200
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 100
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 4 verifie le coup: 100
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 20
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+!E Forloop: 0 verifie le coup: 10
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 2 verifie le coup: 10
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 3 verifie le coup: 20
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+!E Forloop: 1 verifie le coup: 2
+minimax Universel
+Fin de Jeu: 1 
+A5 22 B3 2 minimax Universel
+!E Forloop: 0 verifie le coup: 1
+minimax Universel
+Fin de Jeu: 1 
+minimax Universel
+Fin de Jeu: 1 
+A1 0 
+AlphaBeta gagne. Nombre de tours : 4
+FIN DU CHALLENGE
+	AlphaBeta gagne 0
+	Brutal gagne 1

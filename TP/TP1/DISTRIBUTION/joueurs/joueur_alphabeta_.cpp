@@ -13,27 +13,34 @@ char Joueur_AlphaBeta_::nom_abbrege() const
 }
 
 int max (int a, int b) {
-	return ((a>b)? a:b) ;
+	return ((a>=b)? a:b) ;
 }
 int min (int a, int b) {
-	return ((a<b)? a:b) ;
+	return ((a<=b)? a:b) ;
 }
 
 int minimax(Jeu jeu, bool E) {
-	//std::cout << "minimax\n";
+	//std::cout << "minimax ";
+	//std::cout << (E? "Existantiel" : "Universel") << std::endl;
 	//jeu.print_coups();
-	if(jeu.fini())
-		if(E)
+	if(jeu.fini()){
+		//std::cout <<"Fin de Jeu: ";
+		if(E) {
+		//	std::cout << "1 \n";
 			return -1;
-		else 
+		}
+		else {
+		//	std::cout << "-1 \n";
 			return 1;
-
+		}
+	}
 	int val;
 	if(E){
 		val = -999;
 		for(int i=0;i<jeu.nb_coups();i++){
 			Jeu g(jeu.etat());
-			if(!g.coup_licite(i)) continue;
+			//std::cout << "E Forloop: "<<i<<" verifie le coup: "<<jeu[i]<<std::endl;
+			//if(!g.coup_licite(i)) continue;
 			g.joue(i);
 			val = max(val, minimax(g,!E));
 		}
@@ -42,9 +49,11 @@ int minimax(Jeu jeu, bool E) {
 		val = 999;
 		for(int i=0;i<jeu.nb_coups();i++){
 			Jeu g(jeu.etat());
-			if(!g.coup_licite(i)) continue;
+			//std::cout << "!E Forloop: "<<i<<" verifie le coup: "<<jeu[i]<<std::endl;
+			
+			//if(!g.coup_licite(i)) continue;
 			g.joue(i);
-			val = min(val, minimax(g,E));
+			val = min(val, minimax(g,!E));
 		}
 		return val;
 	}
