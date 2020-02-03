@@ -12,8 +12,9 @@
 #include "joueurs/joueur_random.h"
 #include "joueurs/joueur_brutal_.h"
 #include "joueurs/joueur_alphabeta_.h"
+#include "joueurs/joueur_minimax_.h"
 
-#define TEMPS_POUR_UN_COUP 10 // millisecondes
+#define TEMPS_POUR_UN_COUP 100 // millisecondes
 
 /**********************************************************************************
  *             classe lançant la partie et qui se sert des                        *
@@ -21,7 +22,7 @@
  *             dans les temps                                                     *
  **********************************************************************************/
 
-enum class player {A_ , BRUTAL_ , RAND } ;
+enum class player {A_ , BRUTAL_ , RAND, MM_ } ;
 
 /**
  * @brief The Arbitre class

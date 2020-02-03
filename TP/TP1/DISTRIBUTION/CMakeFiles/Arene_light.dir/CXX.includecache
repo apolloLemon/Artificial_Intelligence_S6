@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/arbitre.cpp
+arbitre.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/arbitre.h
+
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/arbitre.h
 memory
 -
@@ -33,6 +37,8 @@ joueurs/joueur_brutal_.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.h
 joueurs/joueur_alphabeta_.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
+joueurs/joueur_minimax_.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
 
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
 math.h
@@ -59,6 +65,10 @@ joueur.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.h
 thread
 -
+joueur.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
 joueur.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
 

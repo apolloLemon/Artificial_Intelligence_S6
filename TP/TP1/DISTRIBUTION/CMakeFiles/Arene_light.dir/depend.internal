@@ -8,6 +8,7 @@ CMakeFiles/Arene_light.dir/arbitre.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_random.h
 CMakeFiles/Arene_light.dir/jeu.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.cpp
@@ -18,5 +19,6 @@ CMakeFiles/Arene_light.dir/main.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_random.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/main.cpp

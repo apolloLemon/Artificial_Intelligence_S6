@@ -15,6 +15,11 @@ joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o: joueurs/joueur.h
 joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o: joueurs/joueur_brutal_.cpp
 joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o: joueurs/joueur_brutal_.h
 
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: jeu.h
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur.h
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur_minimax_.cpp
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur_minimax_.h
+
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: jeu.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: joueurs/joueur.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: joueurs/joueur_random.cpp

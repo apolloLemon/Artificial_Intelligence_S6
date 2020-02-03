@@ -15,6 +15,11 @@ joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.cpp
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_brutal_.h
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.cpp
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h

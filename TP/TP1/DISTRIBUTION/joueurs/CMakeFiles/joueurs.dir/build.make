@@ -109,12 +109,26 @@ joueurs/CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.s"
 	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.cpp -o CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.s
 
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/CMakeFiles/joueurs.dir/flags.make
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur_minimax_.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o"
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o -c /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.cpp
+
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/joueurs.dir/joueur_minimax_.cpp.i"
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.cpp > CMakeFiles/joueurs.dir/joueur_minimax_.cpp.i
+
+joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/joueurs.dir/joueur_minimax_.cpp.s"
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.cpp -o CMakeFiles/joueurs.dir/joueur_minimax_.cpp.s
+
 # Object files for target joueurs
 joueurs_OBJECTS = \
 "CMakeFiles/joueurs.dir/joueur.cpp.o" \
 "CMakeFiles/joueurs.dir/joueur_random.cpp.o" \
 "CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o" \
-"CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.o"
+"CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.o" \
+"CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o"
 
 # External object files for target joueurs
 joueurs_EXTERNAL_OBJECTS =
@@ -123,9 +137,10 @@ joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/joueur.cpp.o
 joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o
 joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o
 joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.o
+joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o
 joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/build.make
 joueurs/libjoueurs.a: joueurs/CMakeFiles/joueurs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX static library libjoueurs.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library libjoueurs.a"
 	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && $(CMAKE_COMMAND) -P CMakeFiles/joueurs.dir/cmake_clean_target.cmake
 	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/joueurs.dir/link.txt --verbose=$(VERBOSE)
 

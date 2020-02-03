@@ -7,6 +7,7 @@ CMakeFiles/Arene_light.dir/arbitre.cpp.o: jeu.h
 CMakeFiles/Arene_light.dir/arbitre.cpp.o: joueurs/joueur.h
 CMakeFiles/Arene_light.dir/arbitre.cpp.o: joueurs/joueur_alphabeta_.h
 CMakeFiles/Arene_light.dir/arbitre.cpp.o: joueurs/joueur_brutal_.h
+CMakeFiles/Arene_light.dir/arbitre.cpp.o: joueurs/joueur_minimax_.h
 CMakeFiles/Arene_light.dir/arbitre.cpp.o: joueurs/joueur_random.h
 
 CMakeFiles/Arene_light.dir/jeu.cpp.o: jeu.cpp
@@ -17,6 +18,7 @@ CMakeFiles/Arene_light.dir/main.cpp.o: jeu.h
 CMakeFiles/Arene_light.dir/main.cpp.o: joueurs/joueur.h
 CMakeFiles/Arene_light.dir/main.cpp.o: joueurs/joueur_alphabeta_.h
 CMakeFiles/Arene_light.dir/main.cpp.o: joueurs/joueur_brutal_.h
+CMakeFiles/Arene_light.dir/main.cpp.o: joueurs/joueur_minimax_.h
 CMakeFiles/Arene_light.dir/main.cpp.o: joueurs/joueur_random.h
 CMakeFiles/Arene_light.dir/main.cpp.o: main.cpp
 

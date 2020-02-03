@@ -206,6 +206,33 @@ joueur_brutal_.cpp.s:
 	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION && $(MAKE) -f joueurs/CMakeFiles/joueurs.dir/build.make joueurs/CMakeFiles/joueurs.dir/joueur_brutal_.cpp.s
 .PHONY : joueur_brutal_.cpp.s
 
+joueur_minimax_.o: joueur_minimax_.cpp.o
+
+.PHONY : joueur_minimax_.o
+
+# target to build an object file
+joueur_minimax_.cpp.o:
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION && $(MAKE) -f joueurs/CMakeFiles/joueurs.dir/build.make joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o
+.PHONY : joueur_minimax_.cpp.o
+
+joueur_minimax_.i: joueur_minimax_.cpp.i
+
+.PHONY : joueur_minimax_.i
+
+# target to preprocess a source file
+joueur_minimax_.cpp.i:
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION && $(MAKE) -f joueurs/CMakeFiles/joueurs.dir/build.make joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.i
+.PHONY : joueur_minimax_.cpp.i
+
+joueur_minimax_.s: joueur_minimax_.cpp.s
+
+.PHONY : joueur_minimax_.s
+
+# target to generate assembly for a file
+joueur_minimax_.cpp.s:
+	cd /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION && $(MAKE) -f joueurs/CMakeFiles/joueurs.dir/build.make joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.s
+.PHONY : joueur_minimax_.cpp.s
+
 joueur_random.o: joueur_random.cpp.o
 
 .PHONY : joueur_random.o
@@ -251,6 +278,9 @@ help:
 	@echo "... joueur_brutal_.o"
 	@echo "... joueur_brutal_.i"
 	@echo "... joueur_brutal_.s"
+	@echo "... joueur_minimax_.o"
+	@echo "... joueur_minimax_.i"
+	@echo "... joueur_minimax_.s"
 	@echo "... joueur_random.o"
 	@echo "... joueur_random.i"
 	@echo "... joueur_random.s"

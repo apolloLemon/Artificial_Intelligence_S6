@@ -16,6 +16,7 @@ set(SRCS
     joueur_random.cpp
     joueur_brutal_.cpp
     joueur_alphabeta_.cpp
+    joueur_minimax_.cpp
     )
     
 set(HEADERS
@@ -23,6 +24,7 @@ set(HEADERS
     joueur_random.h
     joueur_brutal_.h
     joueur_alphabeta_.h
+    joueur_minimax_.h
     )
 
 add_library(joueurs ${SRCS} ${HEADERS})
