@@ -21,14 +21,22 @@ mutex
 -
 iostream
 -
+utility
+-
+algorithm
+-
 ../jeu.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
 
-/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.cpp
-joueur_alphabeta_.h
-/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_pvs_.cpp
+joueur_pvs_.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_pvs_.h
 
-/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_alphabeta_.h
+/home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_pvs_.h
 joueur.h
 /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+stack
+-
+vector
+-
 

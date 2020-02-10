@@ -2,6 +2,8 @@
 
 #include <mutex>
 #include <iostream>
+#include <utility>
+#include <algorithm>
 #include "../jeu.h"
 
 /*****************************************************************************************************

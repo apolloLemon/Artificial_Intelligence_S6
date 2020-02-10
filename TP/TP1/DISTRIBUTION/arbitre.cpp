@@ -21,6 +21,9 @@ void Arbitre::initialisation()
     _jeu.reset();
 
     switch ((_numero_partie%2? _player1 : _player2)) {
+    case player::PVS_:
+      _joueur1 = std::make_shared<Joueur_PVS_> ("PVS",true);
+        break;
     case player::A_:
       _joueur1 = std::make_shared<Joueur_AlphaBeta_> ("AlphaBeta",true);
         break;
@@ -38,6 +41,9 @@ void Arbitre::initialisation()
     }
 
     switch ((!(_numero_partie%2)? _player1 : _player2)) {
+    case player::PVS_:
+              _joueur2 = std::make_shared<Joueur_PVS_> ("PVS",false);
+        break;
     case player::A_:
               _joueur2 = std::make_shared<Joueur_AlphaBeta_> ("AlphaBeta",false);
         break;

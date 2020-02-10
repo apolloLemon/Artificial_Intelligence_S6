@@ -20,6 +20,11 @@ joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur.h
 joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur_minimax_.cpp
 joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o: joueurs/joueur_minimax_.h
 
+joueurs/CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o: jeu.h
+joueurs/CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o: joueurs/joueur.h
+joueurs/CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o: joueurs/joueur_pvs_.cpp
+joueurs/CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o: joueurs/joueur_pvs_.h
+
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: jeu.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: joueurs/joueur.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o: joueurs/joueur_random.cpp

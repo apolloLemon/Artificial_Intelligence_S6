@@ -20,6 +20,11 @@ joueurs/CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.cpp
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_minimax_.h
+joueurs/CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_pvs_.cpp
+ /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur_pvs_.h
 joueurs/CMakeFiles/joueurs.dir/joueur_random.cpp.o
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/jeu.h
  /home/melon/University/S6/AI/TP/TP1/DISTRIBUTION/joueurs/joueur.h

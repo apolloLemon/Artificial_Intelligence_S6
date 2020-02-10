@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/joueurs.dir/joueur_brutal_.cpp.o"
   "CMakeFiles/joueurs.dir/joueur_alphabeta_.cpp.o"
   "CMakeFiles/joueurs.dir/joueur_minimax_.cpp.o"
+  "CMakeFiles/joueurs.dir/joueur_pvs_.cpp.o"
   "libjoueurs.pdb"
   "libjoueurs.a"
 )

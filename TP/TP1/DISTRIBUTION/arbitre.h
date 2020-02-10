@@ -13,6 +13,7 @@
 #include "joueurs/joueur_brutal_.h"
 #include "joueurs/joueur_alphabeta_.h"
 #include "joueurs/joueur_minimax_.h"
+#include "joueurs/joueur_pvs_.h"
 
 #define TEMPS_POUR_UN_COUP 100 // millisecondes
 
@@ -22,7 +23,7 @@
  *             dans les temps                                                     *
  **********************************************************************************/
 
-enum class player {A_ , BRUTAL_ , RAND, MM_ } ;
+enum class player {PVS_, A_ , BRUTAL_ , RAND, MM_ } ;
 
 /**
  * @brief The Arbitre class
